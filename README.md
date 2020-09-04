@@ -1,4 +1,3 @@
-## Capstone Project 1 
 ## Default and Investment Return Prediction in Online Peer-to-Peer Lending
 
 ### Background
