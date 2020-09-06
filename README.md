@@ -1,6 +1,6 @@
 # Investment Return and Default Prediction in Online Peer-to-Peer Lending
 ### Capstone Project 1 (Springboard - Data Science Career Track)
-Chiyuan Cheng (08/2020)
+Chiyuan Cheng (05/2020)
 
 ### Summary
 - Peer-to-peer (P2P) lending is the new practice of lending money to individuals or small businesses via online service that matches lenders with borrowers. 
