@@ -11,7 +11,7 @@ Chiyuan Cheng (05/2020)
 
 
 ### Report
-- [Presentation Slide](https://docs.google.com/presentation/d/1UHx2bs1HRHdULIVMbpX6N5OsZX_c8dtpSzJ78JXQQGk/edit?usp=sharing)
+- [Presentation Slide](https://docs.google.com/presentation/d/1HUUlMEfyP1xuRCn8bMaA0MTpETxzE7heZlQlLVydlcA/edit?usp=sharing)
 - [Final Report](https://drive.google.com/file/d/1XoPjkRsvSXUuhliZQg0Bb6j81yHDN9bk/view?usp=sharing)
 
 ### Jupyter Notebook
